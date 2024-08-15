@@ -38,13 +38,13 @@ body {
 	color: #0f0f0f;
 }
 
-span {
-	font-size: 36px !important;
-}
-
 header h1{
 	font-size: 1rem;
 	padding: 30px;
+}
+
+span {
+	font-size: 22px;
 }
 
 button {
@@ -76,3 +76,12 @@ button {
   100% {
     opacity: 1;
   }
+}
+
+.ad_box {
+	position: relative;
+	top: 60px;
+	width:  468px;
+	margin: 0 auto;
+	height: 48px;
+}
